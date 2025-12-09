@@ -198,17 +198,3 @@ Mammal				| 88				| 59	               | 67.05
 Alloy				| 96				| 65	               | 67.71
 Rajasthan			| 119				| 82	               | 68.91
 Anthropology		| 222				| 178	               | 80.18
-
-
-REFERENCE
-=========
-
-	1.	Jurafsky & Martin Speech And Language Processing 2Ed 2007
-	2.	Steven Bird, Ewan Klein, and Edward Loper: Natural Language Processing
-		with Python
-	3.	The Stanford Question Answering data: https://rajpurkar.github.io/SQuAD-explorer/
-	4.	Amit Singhal, Steve Abney, Michiel Bacchiani,Michael Collins,
-		Donald Hindle, Fernando Pereira AT&T at TREC-8
-	5.	FNU Budianto: Reading Comprehension on the SQuAD data
-	6.	Xin Li and Dan Roth: Learning Question Classifiers: The Role of Semantic
-		Information
